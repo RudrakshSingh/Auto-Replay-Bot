@@ -1,8 +1,8 @@
 const CLIENT_ID =
-  "208162011483-ounrqck2g2oa9saf1l160hikuuv5lqdd.apps.googleusercontent.com";
-const CLEINT_SECRET = "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";
+  "YOUR CLIENT ID";
+const CLEINT_SECRET = "GOCSPX-..........YOUR CLIENT SECRET";
 const REDIRECT_URI =
-  "4/0AfJohXnwOxHWrwnEOGkckQpzmeXqvhD7ami1oXUuwpI89BBR8Czg53hXTWY5l12VhWIiSg";
+  "4/0AfJohXnwO'''''''''''''''YOUR REDIRECT URL";
 const REFRESH_TOKEN =
-  "1//04HMmZtEmPs4ACgYIARAAGAQSNwF-L9IrFWV4LxmGvPDMSHqSJQxc7nKAriufQ6S7mL-RAMUzQTdTqJQtyJnRWtHPAhvsiqQGInI";
+  "1//04HMmZtEmPs........YOUR REFRESH TOKRN";
 module.exports = { CLIENT_ID, CLEINT_SECRET, REDIRECT_URI, REFRESH_TOKEN };
